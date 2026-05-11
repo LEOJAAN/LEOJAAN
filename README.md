@@ -20,8 +20,6 @@ I am a passionate **Web3 Developer** focused on building user-friendly decentral
 ## 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white" />
   <img src="https://img.shields.io/badge/Phaser-820AD1?style=for-the-badge&logo=phaser&logoColor=white" />
