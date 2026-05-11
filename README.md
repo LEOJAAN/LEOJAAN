@@ -12,7 +12,7 @@ I am a passionate **Web3 Developer** focused on building user-friendly decentral
 
 - 🛠️ Building: **On-chain Daily Check-in Games**
 - 🔭 Learning: **Advanced Smart Contract Security & ZK Proofs**
-- 💬 Ask me about: **TypeScript, Rust, Base Chain, and Ethers.js**
+- 💬 Ask me about: **TypeScript, Rust, Base Chain,**
 - 📫 Connect with me: [@janmd07](https://twitter.com/janmd07)
 
 ---
@@ -41,7 +41,7 @@ I am a passionate **Web3 Developer** focused on building user-friendly decentral
 - **Rialo Club Member**
 - **Member of the Week (March 2026)**
 - **Web3 Ecosystem Contributor**
-
+- **Create base onchain game**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LEOJAAN&theme=tokyonight" alt="GitHub Streak" />
 </p>
